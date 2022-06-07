@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E0285446285015CA00843D38 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0285445285015CA00843D38 /* MyModel.swift */; };
+		E0285447285015CA00843D38 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0285445285015CA00843D38 /* MyModel.swift */; };
 		E0C0E79B284FF3D8000AE7A1 /* LearningGHApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C0E78B284FF3D5000AE7A1 /* LearningGHApp.swift */; };
 		E0C0E79C284FF3D8000AE7A1 /* LearningGHApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C0E78B284FF3D5000AE7A1 /* LearningGHApp.swift */; };
 		E0C0E79D284FF3D8000AE7A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C0E78C284FF3D5000AE7A1 /* ContentView.swift */; };
@@ -16,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E0285445285015CA00843D38 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 		E0C0E78B284FF3D5000AE7A1 /* LearningGHApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningGHApp.swift; sourceTree = "<group>"; };
 		E0C0E78C284FF3D5000AE7A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E0C0E78D284FF3D8000AE7A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,6 +60,7 @@
 				E0C0E78B284FF3D5000AE7A1 /* LearningGHApp.swift */,
 				E0C0E78C284FF3D5000AE7A1 /* ContentView.swift */,
 				E0C0E78D284FF3D8000AE7A1 /* Assets.xcassets */,
+				E0285445285015CA00843D38 /* MyModel.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -177,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0C0E79D284FF3D8000AE7A1 /* ContentView.swift in Sources */,
+				E0285446285015CA00843D38 /* MyModel.swift in Sources */,
 				E0C0E79B284FF3D8000AE7A1 /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -186,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0C0E79E284FF3D8000AE7A1 /* ContentView.swift in Sources */,
+				E0285447285015CA00843D38 /* MyModel.swift in Sources */,
 				E0C0E79C284FF3D8000AE7A1 /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
